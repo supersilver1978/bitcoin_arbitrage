@@ -34,7 +34,7 @@ Our company is performaning a financial analysis of bitcoin arbitrage opporuniti
     2. You can click shift + enter on each block of code to run each batch of code as you go through it. 
    
 - Changing dates:
-    Most of the program looks at 3 sample dates taken from early, middle and late in the code timeframe provided. Feel free to change the dates in Step 3 and look at the profitability models in different time frames.
+    Most of the program looks at 3 sample dates taken from early, middle and late in the code timeframe provided. Feel free to change the dates in Step 3 and look at the profitability models in different time frames.  <img width="550" alt="Screenshot 2023-04-02 at 3 19 14 PM" src=https://github.com/supersilver1978/bitcoin_arbitrage/blob/main/Resources/dates.png>
     
 - Thinking about profitability:
     You will see that arbitrage opportunities are discovered and amended in quick time with today's technology advancements. This model shows an opoprtunity early in the timeframe but the later dates do not show anything worth exploring. 
