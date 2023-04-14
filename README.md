@@ -40,6 +40,7 @@ Our company is performaning a financial analysis of bitcoin arbitrage opporuniti
     You will see that arbitrage opportunities are discovered and amended in quick time with today's technology advancements. This model shows an opoprtunity early in the timeframe but the later dates do not show anything worth exploring. 
     
     We've defined profitable trades as the trades that make in excess of the 1% fee - you can see the number of trades here:
+  <img width="550" alt="Screenshot 2023-04-02 at 3 19 14 PM" src=https://github.com/supersilver1978/bitcoin_arbitrage/blob/main/Resources/profitability.png>
     
     The dollar amounts of arbitrage opportunity are shown most clearly by the dollar amounts here:
     
