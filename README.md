@@ -32,6 +32,8 @@ Our company is performaning a financial analysis of bitcoin arbitrage opporuniti
 - Running the code can be done in one of two ways:
     1. You can click the "play" button at the very top of the notebook.
     2. You can click shift + enter on each block of code to run each batch of code as you go through it. 
+<img width="350" alt="run preview" src=https://github.com/supersilver1978/bitcoin_arbitrage/blob/main/Resources/run.png>
+
    
 - Changing dates:
     Most of the program looks at 3 sample dates taken from early, middle and late in the code timeframe provided. Feel free to change the dates in Step 3 and look at the profitability models in different time frames.  <img width="550" alt="Screenshot 2023-04-02 at 3 19 14 PM" src=https://github.com/supersilver1978/bitcoin_arbitrage/blob/main/Resources/dates.png>
