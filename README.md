@@ -18,7 +18,7 @@ Our company is performaning a financial analysis of bitcoin arbitrage opporuniti
 ****
 - **1:** Install Jupyter Labs and run it from the terminal. Make sure that you make sure you have an up-to-date version of Python
  [Install and run JupyterLab:](https://jupyter.org/install)
-- **2:** Copy URL of this repo <img width="350" alt="Screenshot 2023-04-02 at 3 18 46 PM" src="[https://github.com/supersilver1978/bitcoin_arbitrage](https://github.com/supersilver1978/bitcoin_arbitrage/blob/main/Resources/github.png)">
+- **2:** Copy URL of this repo <img width="350" alt="Screenshot 2023-04-02 at 3 18 46 PM" src(https://github.com/supersilver1978/bitcoin_arbitrage/blob/main/Resources/github.png)">
 - **3:** Create a folder to clone this repo
 - **4:** Clone the repo into your folder by copying the URL of the repo in the terminal using 'git clone' 
 - **5:** Open your terminal and navigate to the folder where you will store the repository 
