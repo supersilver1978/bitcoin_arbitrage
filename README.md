@@ -23,8 +23,7 @@ Our company is performaning a financial analysis of bitcoin arbitrage opporuniti
 - **4:** Clone the repo into your folder by copying the URL of the repo in the terminal using 'git clone' 
 - **5:** Open your terminal and navigate to the folder where you will store the repository 
 - **6:** Type in Jupyter Labs 
-
-![Notebook preview](https://github.com/supersilver1978/bitcoin_arbitrage/blob/main/Resources/jupyter_folder.png)
+<img width="550" alt="folder preview" src=(https://github.com/supersilver1978/bitcoin_arbitrage/blob/main/Resources/jupyter_folder.png)
 - 
 ---
 
