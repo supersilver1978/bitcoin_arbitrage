@@ -18,13 +18,14 @@ Our company is performaning a financial analysis of bitcoin arbitrage opporuniti
 ****
 - **1:** Install Jupyter Labs and run it from the terminal. Make sure that you make sure you have an up-to-date version of Python
  [Install and run JupyterLab:](https://jupyter.org/install)
-- **2:** Copy URL of this repo <img width="350" alt="Screenshot 2023-04-02 at 3 18 46 PM" src="https://github.com/supersilver1978/bitstamp_coinstamp_arbitrage">
+- **2:** Copy URL of this repo <img width="350" alt="Screenshot 2023-04-02 at 3 18 46 PM" src="[https://github.com/supersilver1978/bitcoin_arbitrage](https://github.com/supersilver1978/bitcoin_arbitrage/blob/main/Resources/github.png)">
 - **3:** Create a folder to clone this repo
-- **4:** Clone the repo into your folder by copying the URL of the repo in the terminal using 'git clone' <img width="550" alt="Screenshot 2023-04-02 at 3 19 14 PM" src="https://user-images.githubusercontent.com/123714457/229382255-4e82b266-f0bd-4872-ae40-3190d99e176c.png">
-- **5:** Open your terminal and navigate to the folder where you will store the repository <img width="255" alt="Screenshot 2023-04-02 at 3 24 36 PM" src="https://user-images.githubusercontent.com/123714457/229382330-e2d330da-f774-4954-a564-ad0654d0ae8f.png">
-- **6:** Type in Jupyter Labs ![Screenshot 2023-04-02 at 3 27 07 PM](https://user-images.githubusercontent.com/123714457/229382435-8bc69a47-58c2-4454-a283-65f1fce3a3cf.png)
-**Note:** Once you have JupyterLab running, your terminal will look like this and you won't be able to use it. Don't delete it, if you want to use the terminal you can open another new window. The JupyterLab terminal you shouldn't delete will look something like this: ![Screenshot 2023-04-02 at 3 30 35 PM](https://user-images.githubusercontent.com/123714457/229382566-9c3cc3a8-b256-4481-bb1d-4d2c4c773026.png)
+- **4:** Clone the repo into your folder by copying the URL of the repo in the terminal using 'git clone' 
+- **5:** Open your terminal and navigate to the folder where you will store the repository 
+- **6:** Type in Jupyter Labs 
 
+![Notebook preview](https://github.com/supersilver1978/bitcoin_arbitrage/blob/main/Resources/jupyter_folder.png)
+- 
 ---
 
 ## *Usage*
